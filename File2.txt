@@ -1,5 +1,5 @@
 To work on CR1:Payment
 
-Change ->to test push
-Change ->to test pull made by team mate to test pull
-change ->to test for rebase with conflict in local and remote master
+Change 1: ->to test push
+Change 2: ->to test pull made by team mate to test pull
+change 3: ->to test for rebase with conflict in local and remote master
