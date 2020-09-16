@@ -12,3 +12,5 @@ Change 4: -> Bug Fixes
 Change 5: -> Bug2 fix
 
 Change 6: -> Made by team mate for WI4
+
+Change 7: -> Made by team mate WI5: to merge without conflict
